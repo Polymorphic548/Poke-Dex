@@ -4,6 +4,10 @@ A fan-made Pokédex web application developed using **HTML, CSS, and JavaScript*
 
 The project is intended purely for **educational, personal, and non-commercial purposes**.
 
+## 🌐 Live Website
+
+🔗 **[Click here to explore the Pokédex](https://polymorphic548.github.io/Poke-Dex/)**
+
 ## Disclaimer & Copyright Notice
 
 **This is an unofficial, fan-made project and is not affiliated with, endorsed by, sponsored by, or associated with Nintendo, Game Freak, Creatures Inc., or The Pokémon Company.**
